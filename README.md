@@ -1,4 +1,7 @@
-# Imezditection
+# Gallery App
+<img src="assets/image/GalaryApp.PNG">
+
+
 
 A new Flutter project.
 
